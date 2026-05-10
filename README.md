@@ -1,2 +1,2 @@
 # Arduino-Connector
-制御班から制作を頼まれたArduinoからXA4ピンコネクターへの接続を基盤内で行い、回路タワーに固定できるようにするための基盤
+Arduino_UNO_r4_minima→XA4ピンコネクタ
